@@ -1,0 +1,24 @@
+.movieCard {
+  list-style: none;
+  font-size: 1.3rem;
+  justify-items: center;
+}
+
+.movieCard:hover {
+  opacity: 0.8;
+}
+
+.movieImg {
+  border-radius: 12px;
+  background-color: azure;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}
+
+.movieName {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
